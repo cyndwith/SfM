@@ -26,12 +26,12 @@ We use orthographic projection as assumptions for solving for matrix Q. For more
 
 <include links for images>
 
-# Feature Tracking (KLT)
+## Feature Tracking (KLT)
 
 <include links for images>
 
 
-# Structure from Motion (SfM)
+## Structure from Motion (SfM)
 
 <include links for images>
   
