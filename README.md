@@ -24,7 +24,9 @@ We use orthographic projection as assumptions for solving for matrix Q. For more
 
 ## Medusa Image Sequence
 
-<include links for images>
+<p align="center">
+  <img width="460" height="300" src="https://github.com/cyndwith/SfM/blob/master/Images/Medussa.PNG">
+</p>
 
 ## Feature Tracking (KLT)
 
@@ -33,8 +35,9 @@ We use orthographic projection as assumptions for solving for matrix Q. For more
 
 ## Structure from Motion (SfM)
 
-<include links for images>
-  
+<p align="center">
+  <img width="460" height="300" src="https://github.com/cyndwith/SfM/blob/master/Images/SfM_points.PNG">
+</p>  
 
 ## References
 
