@@ -30,6 +30,9 @@ We use orthographic projection as assumptions for solving for matrix Q. For more
 
 ## Feature Tracking (KLT)
 
+<p align="center">
+  <img width="460" height="300" src="https://github.com/cyndwith/SfM/blob/master/Images/KLT_Features.PNG">
+</p>  
 
 <include links for images>
 
